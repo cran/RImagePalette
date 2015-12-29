@@ -1,0 +1,17 @@
+d3d703bdae9b60b7223795fb9c9c2716 *DESCRIPTION
+3f974170d188452d8da128f37120da2f *LICENSE
+690a76ab737e8d1cd0b995aaed595084 *NAMESPACE
+a1dbef17d00156c27287c01737c78d85 *R/medianCut.R
+f2b8e0f791a621a1b4c22fea7fec87c7 *R/paletteFunction.R
+8dde18a584c970d1cd285d74334ac791 *R/scale_image.R
+1a1a7109676418741b42e14b6aa2dcea *R/utils.R
+4f89d43c340be8ba4d7a1fc4a35f3f0d *R/volumeBox.R
+04febfb4f70a5a007233543e542bddbb *README.md
+6d123a8065ba583e085405fe365e88ab *man/display_image.Rd
+a3a92eaca3627a100862fdb3ee68709c *man/display_palette.Rd
+a0374a2865c8260c43eeaf3173416720 *man/image_pal.Rd
+415ebd592db93d0002bccdd8b012fc78 *man/image_palette.Rd
+eeaafd471bc9423d8f7b5553dda0f872 *man/median_cut.Rd
+41e892bf8cf11feb6b424d22079cf1de *man/scale_image.Rd
+97c37e0f837653e25b2822fc4f3cbf5e *man/switch_colors.Rd
+3c705d8f67f608a6589ff05a793b4da5 *man/vbox.Rd
